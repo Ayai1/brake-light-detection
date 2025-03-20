@@ -1,0 +1,5 @@
+train: C:\YOLO_v11\train
+val: C:\YOLO_v11\val
+
+nc: 2
+names: ["car_brakeON", "car_brakeOFF"]
