@@ -19,5 +19,7 @@ A YOLO and fuzzy logic-based model to detect braking lights.
 - Explore deep fuzzy integration
 - Increase real time accuracy
 
-## 🤝 Contributions
-Open to ideas, collaborations, or feedback.
+## Results:
+
+<img width="640" height="632" alt="Screenshot 2025-11-24 201522" src="https://github.com/user-attachments/assets/5190e934-e700-447c-abaa-91af052494f1" />
+
